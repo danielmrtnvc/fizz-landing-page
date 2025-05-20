@@ -1,4 +1,4 @@
-import videoBg from "../assets/blush-intro-vid.mp4";
+import videoBg from "../assets/naturalfizz-intro-vid.mp4";
 
 export const Header = (props) => {
   return (

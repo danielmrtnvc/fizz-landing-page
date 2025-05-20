@@ -6,7 +6,7 @@ export const Ingredients = (props) => {
     <section className="container">
       <Heading
         title="Made with two simple ingredients."
-        description="Detox, hydrate, and refresh with Blush."
+        description="Detox, hydrate, and refresh with Natural Fizz."
       />
 
       <div className="ingredients">

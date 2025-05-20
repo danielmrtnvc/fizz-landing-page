@@ -9,7 +9,7 @@ export const Footer = (props) => {
               <div className="section-title">
                 <h3>Newsletter</h3>
                 <p>
-                  Subscribe to our newsletter and stay in touch with Blush.
+                  Subscribe to our newsletter and stay in touch with Natural Fizz.
                 </p>
                 <h3>SUBSCRIBE TO NEWSLETTER</h3>
               </div>
@@ -21,7 +21,7 @@ export const Footer = (props) => {
               <h3>Contact Us</h3>
               <p>
                 <span>
-                  <i className="fa fa-instagram"></i> <a href="https://www.instagram.com/drinkblush_" target="_blank" >Follow Blush</a>
+                  <i className="fa fa-instagram"></i> <a href="https://www.instagram.com/drinkblush_" target="_blank" >Follow Natural Fizz</a>
                 </span>
               </p>
             </div>

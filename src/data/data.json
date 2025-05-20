@@ -162,22 +162,22 @@
   "Features": [
     {
       "img": "img/Cherry.png",
-      "title": "CHERRY BLAST",
+      "title": "Pineapple",
       "text": "Bold and tangy for a vibrant energy boost."
     },
     {
       "img": "img/Peach.png",
-      "title": "PEACH MAGIC",
+      "title": "Peach",
       "text": "Smooth and mellow with a luscious finish."
     },
     {
       "img": "img/Apple.png",
-      "title": "APPLE MIST",
+      "title": "Orange",
       "text": "Crisp and refreshing, perfect for every moment."
     },
     {
       "img": "img/Blueberry.png",
-      "title": "BLUEBERRY BURST",
+      "title": "Green Apple",
       "text": "Rich and vibrant, perfect with every sip."
     }
   ],

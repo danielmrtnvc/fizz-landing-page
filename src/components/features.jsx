@@ -3,7 +3,7 @@ import Heading from "./heading";
 export const Features = (props) => {
   return (
     <section className="container">
-      <Heading title="Our Flavors" />
+      <Heading title="Our Flavours" />
 
       <div className="features">
         {props.data

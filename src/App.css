@@ -63,8 +63,8 @@ header video {
 }
 
 .feature .feature-image img {
-  width: 140%;
-  height: 140%;
+  width: 110%;
+  height: 110%;
   object-fit: cover;
   padding-bottom: 4rem;
 }

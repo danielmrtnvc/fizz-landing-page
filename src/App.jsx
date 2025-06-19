@@ -8,7 +8,6 @@ import { Ingredients } from "./components/ingredients";
 import { Banner } from "./components/banner";
 import { Mission } from "./components/mission";
 import { Contact } from "./components/contact";
-import { Nature } from "./components/nature";
 import { Footer } from "./components/footer";
 import { Analytics } from "@vercel/analytics/react"
 
@@ -40,7 +39,6 @@ const App = () => {
       <Mission data={landingPageData.Mission} />
 
       <Contact data={landingPageData.Contact} />
-      <Nature data={landingPageData.Nature} />
       <Footer data={landingPageData.Footer} />
       <Analytics />
     </div>

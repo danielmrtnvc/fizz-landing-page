@@ -3,9 +3,10 @@ export const Banner = (props) => {
     <section id="banner" className="banner">
       <div className="banner-image">
         <img
-          src="img/banner-image.png"
+          src="img/banner-image.JPG"
           alt="Detox, hydrate, and refresh with Natural Fizz."
         />
+        <div className="banner-overlay"></div>
       </div>
 
       <h2 className="banner-text">

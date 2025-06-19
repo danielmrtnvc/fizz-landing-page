@@ -28,19 +28,6 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
-
-          <li>
-                  <a href="https://www.instagram.com/drinkblush_" target="_blank" >
-                      <i className="fa fa-instagram"></i>
-                    </a>
-                  </li>
-
-
-            <li>
-              <a href="#banner" className="page-scroll">
-                About
-              </a>
-            </li>
             <li>
               <a href="#contact" className="page-scroll">
                 Contact

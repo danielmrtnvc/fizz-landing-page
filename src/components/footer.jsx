@@ -19,11 +19,6 @@ export const Footer = (props) => {
           <div className="col-md-3 col-md-offset-1 footer-info">
             <div className="footer-item">
               <h3>Contact Us</h3>
-              <p>
-                <span>
-                  <i className="fa fa-instagram"></i> <a href="https://www.instagram.com/drinkblush_" target="_blank" >Follow Natural Fizz</a>
-                </span>
-              </p>
             </div>
             <div className="footer-item">
               <p>
@@ -45,22 +40,6 @@ export const Footer = (props) => {
             <div className="row">
               <div className="social">
                 <ul>
-                <li>
-                  <a href="https://www.instagram.com/drinkblush_" target="_blank" >
-                      <i className="fa fa-instagram"></i>
-                    </a>
-                  </li>
-                  
-                  <li>
-                  <a href="https://x.com/drinkblush" target="_blank" >
-                      <i className="fa fa-twitter"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://www.facebook.com/profile.php?id=61572410199484" target="_blank" >
-                      <i className="fa fa-facebook"></i> 
-                    </a>
-                  </li>
                 </ul>
               </div>
             </div>

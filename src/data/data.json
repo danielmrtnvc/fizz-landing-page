@@ -160,27 +160,27 @@
     "youtube": "youtube.com"
   },
   "Features": [
-    {
-      "img": "img/Cherry.png",
-      "title": "Pineapple",
-      "text": "Bold and tangy for a vibrant energy boost."
-    },
-    {
-      "img": "img/Peach.png",
-      "title": "Peach",
-      "text": "Smooth and mellow with a luscious finish."
-    },
-    {
-      "img": "img/Apple.png",
-      "title": "Orange",
-      "text": "Crisp and refreshing, perfect for every moment."
-    },
-    {
-      "img": "img/Blueberry.png",
-      "title": "Green Apple",
-      "text": "Rich and vibrant, perfect with every sip."
-    }
-  ],
+  {
+    "img": "img/Fizz_cherry.jpg",
+    "title": "Cherry",
+    "text": "Rich and juicy with a perfectly balanced sweet-tart finish."
+  },
+  {
+    "img": "img/Fizz_peach.jpg",
+    "title": "Peach",
+    "text": "Smooth and mellow with naturally sweet, refreshing notes."
+  },
+  {
+    "img": "img/Fizz_grape.jpg",
+    "title": "Grape",
+    "text": "Bold and fruity with a classic juicy grape flavour."
+  },
+  {
+    "img": "img/Fizz_raspberry.jpg",
+    "title": "Raspberry",
+    "text": "Bright and tangy with a crisp, refreshing berry finish."
+  }
+],
   "Ingredients": [
     {
       "img": "img/ingredients-left.jpg",

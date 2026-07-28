@@ -23,10 +23,7 @@ export const Contact = (props) => {
     e.preventDefault();
     console.log(name, email, phone, message);
 
-    {
-      /* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */
-    }
-
+    /* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */
     emailjs
       .sendForm(
         "service_3zdmc87",

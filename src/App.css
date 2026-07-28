@@ -65,6 +65,16 @@ header video {
   object-fit: cover;
 }
 
+/* the grape and raspberry source images show the can smaller in the
+   frame than cherry/peach, so zoom them to match the can size */
+.feature-grape .feature-image img {
+  transform: scale(1.33);
+}
+
+.feature-raspberry .feature-image img {
+  transform: scale(1.28);
+}
+
 .feature-title {
   margin-bottom: 1rem;
 }

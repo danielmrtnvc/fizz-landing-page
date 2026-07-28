@@ -8,7 +8,10 @@ export const Features = (props) => {
       <div className="features">
         {props.data
           ? props?.data.map((item, index) => (
-              <div key={`${item.title}-${index}`} className="feature">
+              <div
+                key={`${item.title}-${index}`}
+                className={`feature feature-${item.title.toLowerCase()}`}
+              >
                 <div className="feature-image">
                   <img src={item.img} alt={item.title} />
                 </div>

@@ -72,7 +72,8 @@ header video {
 }
 
 .feature-raspberry .feature-image img {
-  transform: scale(1.28);
+  /* the can sits high in this image, nudge it down to centre it */
+  transform: scale(1.28) translateY(4.7%);
 }
 
 .feature-title {

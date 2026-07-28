@@ -54,19 +54,15 @@ header video {
 
 .feature .feature-image {
   width: 100%;
-  aspect-ratio: 1/1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding-bottom: 1rem;
+  aspect-ratio: 2/3;
+  margin-bottom: 1rem;
   overflow: hidden;
 }
 
 .feature .feature-image img {
-  width: 110%;
-  height: 110%;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
-  padding-bottom: 4rem;
 }
 
 .feature-title {
@@ -241,10 +237,6 @@ header video {
   .banner-text {
     max-width: 560px;
     font-size: 28px;
-  }
-  .feature .feature-image img {
-    width: 150%;
-    height: 150%;
   }
 }
 
